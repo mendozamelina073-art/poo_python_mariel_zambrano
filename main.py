@@ -1,6 +1,6 @@
 """
 Programa: Aplicación de Conceptos de POO en Python
-Autor: Mariel Zambrano
+Autor: Melina Mendoza
 Descripción:
 Este programa aplica los conceptos de Programación Orientada a Objetos:
 - Definición de Clase
